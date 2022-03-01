@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zion's sad tears, for Nineveh's just fears. Or, Hours of mourning, for yeers of sinning; Being some few directed observations of divine mercy, &amp; sinful returns: with an humble offering towards regulation of land and maritime affairs. By a humble seeker of truth and peace.</title>
+            <author>Humble seeker of truth and peace.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97301</idno>
+            <idno type="STC">Wing Z14</idno>
+            <idno type="STC">Thomason E684_25</idno>
+            <idno type="STC">ESTC R207055</idno>
+            <idno type="EEBO-CITATION">99866130</idno>
+            <idno type="PROQUEST">99866130</idno>
+            <idno type="VID">166409</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166409)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E684[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Zion's sad tears, for Nineveh's just fears. Or, Hours of mourning, for yeers of sinning; Being some few directed observations of divine mercy, &amp; sinful returns: with an humble offering towards regulation of land and maritime affairs. By a humble seeker of truth and peace.</title>
+                  <author>Humble seeker of truth and peace.</author>
+               </titleStmt>
+               <extent>[2], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotations on Thomason copy: "Jan: 7th 1652"; the '3' in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166409:1" rendition="simple:additions"/>
+            <p>Zion's ſad Tears, FOR Ninevehs Juſt Fears.</p>
+            <p>OR, <hi>Hours of Mourning,</hi> FOR <hi>Yeers of Sinning;</hi> Being Some few directed OBSERVATIONS OF <hi>Divine Mercy,</hi> &amp; <hi>Sinful Returns:</hi> With an humble Offering towards Re<g ref="char:EOLhyphen"/>gulation of Land and Maritime affairs.</p>
+            <p>By an humble Seeker of Truth and Peace.</p>
+            <q>
+               <p>Fools, becauſe of their tranſgreſſions, becauſe of their iniquities, are afflicted; their ſoul abhorreth all manner of meat, and they draw neer unto the gates of death. Then they cry unto the Lord in their trouble, he ſaveth them out of their diſtreſſes. He ſent his Word, and healed them, <hi>&amp;c.</hi>
+               </p>
+               <bibl>
+                  <hi>Pſal. 107.17, 18, 19, 20.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Then ſaid I, Wo is me; for mine eyes have ſeen the King, the Lord of hoſts,</p>
+               <bibl>
+                  <hi>Iſai. 6.</hi>
+               </bibl>
+            </q>
+            <p>Read the whole: for the holy ſeed ſhall be the ſubſtance thereof.</p>
+            <q>
+               <l>
+                  <hi>To ſigh and mourn for what we cannot do,</hi>
+               </l>
+               <l>
+                  <hi>Is to come ſhort: yet we muſt do it too.</hi>
+               </l>
+            </q>
+            <p>Printed at <hi>London,</hi> 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:166409:2"/>
+            <pb n="1" facs="tcp:166409:2"/>
+            <head>To the great God of wiſdome, and ſole Eſſence of Power.</head>
+            <p>
+               <seg rend="decorInit">O</seg> 
+               <hi>Thou holy one of Iſrael, and preſerver of men;</hi> I the worſt of thy creatures, all ſullied with the dirt and blood of my own, and the ſins and Tranſgreſſions of my poor Family, do here offer up to thee the ſacrifice of thy beloved Son, and dejection of my ſinful heart, beg<g ref="char:EOLhyphen"/>ging of thee humbly, but earneſtly, not to marke ſtrictly what is done amiſs (being of purer eyes) but on the former, being an Oblation ſufficient for the ſins of the whole world. O great God of wiſdome, and Lord of Hoſts, renew thy holy Spi<g ref="char:EOLhyphen"/>rit in me, purifie me throughout; and as thou haſt preſerved me to this, teach me, not onely to glo<g ref="char:EOLhyphen"/>rifie thy Sacred Name, but alſo as thou haſt (at firſt faint deſire upon occaſion) taught my hands to War, and fingers to Fight; ſo now teach my heart to indite a good matter, and make my Pen the Pen of a ready Writer: and whereas formerly a Petitioner to earthly gods, whoſe breath is in their noſtrils, ſo now to thee onely, that it may turne thine eyes from my ſin, to thy own righteouſneſs. O thou that art my onely true beloved now in the
+<pb n="2" facs="tcp:166409:3"/>Cloud, proclaim thy holy Name as in former dayes, <hi>The Lord, the Lord God merciful and gracious, long ſuffering, and abundant in goodneſs and truth, keep<g ref="char:EOLhyphen"/>ing mercy for thouſands, forgiving iniquity and tranſ<g ref="char:EOLhyphen"/>greſsion and ſin:</hi> O reſerve yet a good proportion of mercy for thy Iſrael: why ſhould they be de<g ref="char:EOLhyphen"/>ſtroyed by worſe then themſelves? make them all, O God, ſeek and finde thy Kingdome, and then ad<g ref="char:EOLhyphen"/>miniſter to them all good things: <hi>Let the words of my mouth, and the meditations of my heart, be acceptable in thy ſight, O Lord my ſtrength and my Redeemer.</hi> Thus begging of thee to haſten all that is convenient to thy poor afflicted people, and thy moſt unwor<g ref="char:EOLhyphen"/>thy ſervant, I deſire to render to thy bleſſed Name but what is moſt due; all honour, praiſe, glory, Power, and Dominion, now and ever.</p>
+         </div>
+         <div type="dedication">
+            <head>To the Right Honorable <hi>O.Cromwel</hi> Eſq; General of all the Land-Forces under the pay of the Parl. in <hi>England, Scotland,</hi> and <hi>Ireland;</hi> Member of the ſame Parl. and Councel of Sate.</head>
+            <opener>
+               <salute>Sir.</salute>
+            </opener>
+            <p>YOu may juſtly challenge that impudence, which from Raggs preſented a great perſon with a Cup of cold water, when the Conquer or without peradventure could have commanded choyce Liquors; yet that eſcaped not unrewarded, though another with a higher Preſent from a more gallant hand, through a covetous end, did. Truly, Sir, I can onely ſay, I am yet a living Monument of mercy, having ſometime been a ſmall Atome
+<pb n="3" facs="tcp:166409:3"/>of a Soldier under your happy conduct; and conſi<g ref="char:EOLhyphen"/>dering our enemies preſſure now at our Walles, to be great, as once at <hi>Haddington,</hi> before that ap<g ref="char:EOLhyphen"/>proaching glorious Deliverance and Victory, I ſhould be ingrateful to God, as ſometimes I am, my Country, and your Honour, if I ſhould not bewail the preſent conditon of affairs, and caſt my ſmall Mite into the Publick Treaſury, towards ſup<g ref="char:EOLhyphen"/>port of a Chriſtian intereſt, though ſhaken, and ne<g ref="char:EOLhyphen"/>ver more threatned. Would my tears prevail, I ſhould deſire to weep to death; that ſo a day of <hi>Ju<g ref="char:EOLhyphen"/>bilee</hi> might cover the face of this place of my Nati<g ref="char:EOLhyphen"/>vitie, now neer her extremitie, wherein her Faith, Patience, and Meekneſs will not onely be tryed, but muſt be extended; The God of glory give the bleſſing. Indeed, Sir, your known greatneſs and worth, muſt give me leave (though a low, ſimple, deſpiſed fellow) to be plain with you; for albeit a Raven bring you bread and fleſh in the morning of this accompliſhed New-year, and water from the Brook, deſpiſe it not; your former favours to me (when clouded in carnality) have induced me to this weak Oblation: I muſt acknowledge it with thanks to our Creator, the love of his dearly be<g ref="char:EOLhyphen"/>loved Son, and ſacred Spirit reſting in his Saints; but withal confeſs (as I have ſaid) in my heart, that as he was juſt by afflicting me by ſo bad as my ſelf, (though externally my Superiors) ſo likewiſe in admitting ſome to be puniſh'd by worſe then themſelves, and to ſhake their body Politick, who firſt touched my Oeconomick; yet ſince it was to call forth my ſlender Candle, before hidden under
+<pb n="4" facs="tcp:166409:4"/>a Buſhel, though lighted at a Divine Torch, and the Talent which before lay buried in a dirty Nap<g ref="char:EOLhyphen"/>kin, I cannot deny my Country-men a ſight of thoſe thoughts which may trouble us all; if I am a <hi>Shimei,</hi> be you a <hi>David.</hi> Sir, I here bring you a Brat called forth with <hi>Lazarus</hi> (I hope from the grave of corruption) and lay it at your feet, becauſe I am not ſo able as you to prefer or maintain it: you may do well to take the grave cloaths off, leſt it ſtink too much, and dreſs it in the attire you moſt deſire to ſee it; though it cannot prattle, yet to call you Excellent, or your Excellency at every word, yet in time it may be bleſt, and have occaſion ſo to do. Truly Sir, I am heartily ſorry I have no bet<g ref="char:EOLhyphen"/>ter New-years-gift for you that have deſerved it; but you (if you come to me) muſt be content with what I have, not what I would have. I hope the Lord of Hoſts will ſanctifie your heart to the ad<g ref="char:EOLhyphen"/>vancement of his glory, and defence of his Saints; elſe, Sir, what ſhall be done to thoſe late-raiſ'd Princes, who continue to walk (without light in theſe dayes) in the ſteps of their Predeceſſors? ſure<g ref="char:EOLhyphen"/>ly, ſo much War as attended the gate of them, muſt attend theirs; yet is there an appointed time for <hi>Nimrod</hi>'s ruine or ſafety. I hope it was in your heart to build the Temple; well, it's enough, you ſhall live to ſee the materials brought together that ſhall do the work. The Lord God of mercy in<g ref="char:EOLhyphen"/>cline the Pillars and Members to ſeek his Face whileſt it may be found, and the Evil day cruſh us not altogether; be confident in your Maker, and he may yet do much by you. The God of wiſ<g ref="char:EOLhyphen"/>dom
+<pb n="5" facs="tcp:166409:4"/>and innocency inrich your heart therewith from his Fountain, that the Nations about you may have occaſion to bleſs God for and with you: So prayes heartily him that is</p>
+            <closer>
+               <date>
+                  <hi>Decemb</hi> 20. 1652.</date>
+               <salute>A poor Fellow-labourer, a dead Dogg.</salute>
+            </closer>
+            <postscript>
+               <p>Sir, enquire not after the Author of this, but that of us both.</p>
+            </postscript>
+         </div>
+         <div type="to_the_reader">
+            <head>To the Reader, of what ſort ſoever.</head>
+            <p>PEradventure you (as others) may ſtile me mad or otherwiſe (as ſome in other caſes have) in re<g ref="char:EOLhyphen"/>ſpect of the main diſproportion of ſeveral things in this parcel; but I ſhall not ſay you are ſo, if cenſo<g ref="char:EOLhyphen"/>rious. If I am mad, 'tis for your cauſe; if ſober, 'tis to God. I ſhall not invite you much to look on the Infant, for its names or Fathers ſake; but if you like it, or it you, 'tis yours, not mine; I begg no cuſto<g ref="char:EOLhyphen"/>mers or company now, being indeed never leſs a<g ref="char:EOLhyphen"/>lone, then when alone. If you find the Child in the ruſhes, and preſerve it, in time it may produce better things; however, my travel in its birth, ſhall not be loſt, for I have gain'd what I in part deſired to ſee. The God of Power ſanctifie it, and then it ſhall be bleſt, if not kiſt by you. The piece is not a nine days wonder, but ſome few void hours in that time; the matter I commit to you, not the form, for haſt maks waſte, and prevented me in puting things in order, though my end was good, and my judgment I hope with my God; this is onely truly for an humbled
+<pb n="6" facs="tcp:166409:5"/>people; I have no hard words or Aenigma's to Chri<g ref="char:EOLhyphen"/>ſten it with; but what I have, you are welcome to; if you be a Chriſtian, 'tis well enough, it may re<g ref="char:EOLhyphen"/>ceive the attendance of ſome vacant minutes; if it make you weep to ſee it, do ſo, I cannot help it; rock it, perchance it may gain ſleep though the poor fa<g ref="char:EOLhyphen"/>ther little; if you ſhall curiouſly ſearch his Name, you may finde it <hi>Homo:</hi> then ſeek no farther, unleſs you bring tears to attend his Funeral, who had ra<g ref="char:EOLhyphen"/>ther for you die, then read your Elegie. To deal plainly with you, I am here call'd forth to ſhew you part of what I have; but it being ill Cook'd, and diſh'd with as bad ſauce, if you can receive and digeſt it, I am like to ſhew you more; however, give me no occaſion to anſwer for it, leſt you make me ſtark mad; and then (deprived of my ſences) not be able. An Infant, Idiot, or Lunatick (all which I am) is (as I take it) excuſable by the Law of the Land; <hi>Sed, ſi pereo, pereo;</hi> greater Pillars wil be ſhaken, when mine are ſo: yet this is my comfort, Cedars fall, when Muſhrooms will ſpring. One ſecret I muſt tel thee, that <hi>Part of my right hand, till I extended it in writing, was ſhrunk up, and then again I found its uſe, yet not able to write over again what I writ, or indeed re<g ref="char:EOLhyphen"/>member it in former things of late.</hi> The fruit of my gleanings I wiſh you, and to ſee better things from you; contribute your talent with mine now in time, now in time of neceſſity; it can do no hurt, but may enlarge my thoughts expecting it; and your bring<g ref="char:EOLhyphen"/>ing in what you have to the Publick: praying for the proſperity of all the friends of <hi>Zion,</hi> I remain</p>
+            <closer>
+               <signed>Yours in all due reſpects, <hi>A Servant of Truth and Peace.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="7" facs="tcp:166409:5"/>
+            <head>To <hi>Nineveh</hi> and its People.</head>
+            <p>O <hi>Nineveh, Nineveh, Nineveh,</hi> the former three moſt reſplendent places in the Nations a<g ref="char:EOLhyphen"/>bout us; and this in particular, though I have been a Beggar for you: What more could the Lord have done by and for you, then what was done? What unthankful returns hath he received from you? ye had need of 3000 <hi>Ionahs,</hi> ſo many Trumpets, and as many years, to awaken and call you to true repentance. Did Divine mercy raiſe you to the Empire over your ſiſters, to repay your heavenly Father in the imperfect Coyn of your own baſe ingratitude, or walk after the carnal luſts of your own hearts? Could you be apt to Signe ſuch Oaths, Proteſtations, and Covenants of mens inventions, and never ſeriouſly make one in your own hearts with the giver of all good things; to live ſoberly and uprightly in this preſent life, to his glory and your own comfort, as alſo the mutual defence and preſervation of each other therein? But every one of your hands is full of oppreſſion and violence, and for your wicked deſperate Oaths (crucifying again the Lord of life) the Land now mourns and trembles before the preſence of the Lord. Muſt the God of Power deliver into your hands your betters, even the declared Kings and Princes of the earth, and can you continue ſtill walking in their impious ſteps? Muſt you return as Doggs to the vomit, or a blind people to the Oni<g ref="char:EOLhyphen"/>ons
+<pb n="8" facs="tcp:166409:6"/>and Garlick of <hi>Egypt?</hi> Surely the Lord may yet reſerve mercy for you, if you can but by Faith eye the Arme which hath (not long ſince) rendred it ſelf bare for your preſervation, and now contends with a flaming ſword againſt you; not onely ſo, but threatning a Mortality within your own Walls and Pavilions. O heavenly Father (if it be thy will) let every individual Member of the people here and abroad, lay theſe things ſeriouſly to heart, and let the crucified Image of thy Son be fixed in and upon every ſoul and ſpirit, that ſhall read or hear theſe Funeral-Elegies, though clothed in raggs; preſerve thy choyce ones as the Apple of thine Eye, let them not alwayes be dying Sa<g ref="char:EOLhyphen"/>crifices for worſe then themſelves: reſtrain the fu<g ref="char:EOLhyphen"/>ry and madneſs (O Father of ſpirits) of the Wolves and Bears of the Forreſt, which now thou haſt cal<g ref="char:EOLhyphen"/>led forth; and ſpare thy poor people, when thou ſhalt deal with them: And all this for thy dearly beloved Sons ſake.</p>
+         </div>
+         <div type="tract">
+            <head>To the rigid Presbyters, and rude Pulpit-knockers of theſe times.</head>
+            <p>KNow ye not that holieſt <hi>David,</hi> and wiſeſt <hi>Salomon</hi> had their crimes; yet both repro<g ref="char:EOLhyphen"/>ved, repented, and found mercy? Where is <hi>Pharaoh</hi> your Covenanted Idol become? Is he not ſeeking all ways and means to deſtroy your hopes, and lay them in the duſt? Muſt you Idolize the ſons of men, and even betray all Governments that
+<pb n="9" facs="tcp:166409:6"/>put you not in the room of Chriſt himſelf? Nor know ye, that for the tranſgreſſions of a Land, ma<g ref="char:EOLhyphen"/>ny are the Princes thereof? Why cannot ye ſub<g ref="char:EOLhyphen"/>mit to that Power the Lord hath appointed, and vail your Plumes in the time of ſudden Calamity, and indeed joyn heart and hand with deſpiſed little ones, to ſeek your Maker in humility and love? O condeſcend in time, leſt elſe your <hi>untempered Morter</hi> ſuddenly make our Walls fall about our ears: let your moderation be known to all men, and be you Serpent-like wiſe, but Dove-like innocent; not Wolves in Sheeps clothing, to fleece the Flock and feed the belly-gods, but ſtudy the peace of the Government and people, if you can do no more; letting alone the Civil Magiſtrate to puniſh Tur<g ref="char:EOLhyphen"/>bulencies and Seditions: Indeed you ſhould more obſerve and proclaim the holy Name of the ever-living God, his dearly beloved Son, and ſacred Spirit, more and more; nay deny your ſelves (if true Diſciples) take up his Croſs and follow him whereſoever he ſhall call you, or into what condi<g ref="char:EOLhyphen"/>tion ſoever. But 'tis to be feared you more ſerve the god of the world, not preaching in ſeaſon and out of ſeaſon, fearing not what man can do unto you, in perſecution, and out of perſecution. You may obſerve, the firſt Horn of the Beaſt in the laſt unhappy Queens time, fell immediately with it depending thereon, the Prelacy; the ſecond, I muſt ſay, comes too near your ſelves, and ye have had Power to procure the Image of the Beaſt to ſpeak, and ſome to be ſlain which worſhipped not the Beaſt: But beware, though you cannot ſee it, <hi>Ba<g ref="char:EOLhyphen"/>bylon
+<pb n="10" facs="tcp:166409:7"/>is faln, is faln in the hour of Gods judgement, the great City;</hi> and the reaſon is rendred, <hi>She made all Nations drink of the Wine of the wrath of her fornicati<g ref="char:EOLhyphen"/>on.</hi> But let ſuch as taſt thereof, take heed they drink not of the wine of the wrath of God and his indig<g ref="char:EOLhyphen"/>nation poured forth without mixture. Your Hie<g ref="char:EOLhyphen"/>rarchy is even grown threed-bare; and as it cruſh'd the Biſhops, 'tis but juſt yours be cruſh'd. You'll ſay I am a mad fellow to tell you <hi>Diana</hi> is falling. I am of your opinion; yet not aſhamed to maintain or write truth at any time: proſecute me if you dare; you ſhall ſhortly be your own proſecutors, ſo well as I have been mine; then read me ſome pretty Homily of your converſion to comfort me. But leſt I ſhould make you ſo mad as my ſelf, let me ſober<g ref="char:EOLhyphen"/>ly adviſe you to joyn your Prayers publickly and privately with the Saints, for the deliverance of a juſtly-afflicted people; peradventure God may have mercy on you and them, if ye unfainedly repent, amend, and advance Chriſt without private end.</p>
+         </div>
+         <div type="tract">
+            <head>To the Covenanters.</head>
+            <p>SUrely in 43 my Friend was an Infant at Law; yet having then a place by his Maſter <hi>Gamli<g ref="char:EOLhyphen"/>el</hi>'s Excellency, in mundane affairs, worth more then 100 <abbr>l</abbr> 
+               <hi>per an.</hi> he, according to the truſt on, and duty in him, tendred the Covenant to many; a<g ref="char:EOLhyphen"/>mongſt the reſt, <hi>viz.</hi> the Prelatical and Royal Cler<g ref="char:EOLhyphen"/>gie and Gentry, whom he found (though ſilenc'd their imperfections) that after much trouble on their own ſpirits, they could in humane eyes,
+<pb n="11" facs="tcp:166409:7"/>imbrace any thing to preſerve their large Reve<g ref="char:EOLhyphen"/>nues, without ſeeking firſt the Kingdom of heaven, &amp; laying up treaſure there; notwithſtanding, at that time ſome choſen ones refuſed to take that earthly honour from the duſt by ſuch means. For Oh my friends, (if ſo to God and your own ſpirits) tell me the Plot and iſſue; was it not more from Nor<g ref="char:EOLhyphen"/>thern Policy, then Southern Piety, that we ſhould ingage to preſerve a <hi>Nebuchadnezzars</hi> or <hi>Belſhazzar</hi>'s dying fate with yours, though then by thoſe in hoſtility againſt both, ye eſpyed not the Viſion and Hand-writing on the wall? Truly, I cannot but acknowledge my friend declined it, though his Maſter brought forth more Law then Goſpel for it; and ſuddenly his employment (God calling him thence by his own hand to a more retired way, leſt he ſhould abound and wax worſe) fell from him, as ſeveral times ſince, on other occaſi<g ref="char:EOLhyphen"/>ons. Had this Idol-creature and other things be<g ref="char:EOLhyphen"/>fore and ſince entred into, been, or ſavoured more of God then man, ſo much blood, treaſure, &amp; ſweat ſurely had never been extorted to ſerve the three Nations, and yet no deliverance: no (my hearts) I doubt you yet but grope (as 'tis convenient) till true light appear; but when it doth or ſhall glori<g ref="char:EOLhyphen"/>fie the giver, reject not the means, but embrace it, leſt your condemnation in the great day be juſt; which aſſeveration I believe you ignorantly took in the concluſion of the Covenant: hereupon I in<g ref="char:EOLhyphen"/>treat you (for Gods cauſe) to conſider you have do<g ref="char:EOLhyphen"/>ted more on man then God; ſeek Gods face more, mans (<hi>viz.</hi> honour and carnality) leſs and leſs;
+<pb n="12" facs="tcp:166409:8"/>write but a new Covenant on your hearts, to ſerve the God of glory, promote Chriſts Kingdom, and ſeek the union and common defence of his people more now then ever; never more need: then joyn<g ref="char:EOLhyphen"/>ing your conſtant prayers therewith, truſt God with the iſſue; it may be Crowned with everlaſting ſucceſs, if God once ſpeak the word; however, you ſhall have done your duty: for what is earthly, tends to its Centre; but what is heavenly in you, to a glorious Eſſence. Be wiſe in time, and repent, leſt ye all likewiſe periſh, the Kingdom of heaven being now cloſe at hand.</p>
+         </div>
+         <div type="tract">
+            <head>The the moderate People of the three Nations.</head>
+            <p>O My beloved ones, though you may be ſty<g ref="char:EOLhyphen"/>led <hi>Laodiceans,</hi> or worſe, continue in your Sphere Serpentine and Dove-like; God will do glorious things by his deſpifed people, in this latter Act now in motion; ſtand ſtill, and ſee the ſalvation of the Lord; be confident therein, and ye ſhall be hid in the great day as the Apple of his Eye; nay, if ye be his, he will rebuke Kings and Princes for your ſakes; yea, he will cruſh them for the ſame: Therefore with humble (but faith<g ref="char:EOLhyphen"/>ful) hearts, ſeek his Face; if you have not had your hands in blood, ye may yet live to ſee <hi>Salomon</hi>'s Temple builded; however, none truly ſeeks his Face and returns unfatisfied.</p>
+            <p>You'll carnally object, We have laid forth our
+<pb n="13" facs="tcp:166409:8"/>ſelves for the Publick good, and can do no more Give me leave to ſay, Your Prayers and Tears may be yet enlarged; then ſure contribution of relief to thoſe that go forth for you, will not be wanting; better do ſo, till the Almighty ſend you delive<g ref="char:EOLhyphen"/>rance, then become ſubjected to the Conquering Tyrant; when God ſhall by any means (though externally deſpiſed) grant it, then you muſt embrace it. In the interim, The Lord God of glory conti<g ref="char:EOLhyphen"/>nue or give you his Peace, which paſſeth all under<g ref="char:EOLhyphen"/>ſtanding; ſo unfeignedly prayes the whimſical, but ſubmiſſive Author of this his latter Piece.</p>
+         </div>
+         <div type="tract">
+            <head>To every Individual Member of the Army.</head>
+            <p>HAſt not thou been one of thoſe, that God Almighty, the Lord of Hoſts hath been pleaſed to bleſs in the tryals of fire and ſmoak? Haſt thou not in thy time ſent, or endea<g ref="char:EOLhyphen"/>voured to return Trophies of thy ſucceſs to thy friends and Brethren at home, to magnifie thy ſelf? Didſt thou, or thy Aſſiſtants, ne'er pro<g ref="char:EOLhyphen"/>miſe the people ſuccour or aſſiſtance, to procure their Freedomes and Liberties? What then did they pay thee for, to continue ever upon their charge, and never endeavour it, or indeed to call thee to <hi>Maritime</hi> as well as Land-affairs? Oh ye fooliſh <hi>Galatians,</hi> who hath bewitched you to ſeek God little, man and thy intereſt much; forbear ſeeking truth and freedome, and purſue vanity!</p>
+            <pb n="14" facs="tcp:166409:9"/>
+            <p>Indeed, what fruitful returnes haſt thou given to thy Preſerver? You will ſay you were a ſervant, (I hope not Mercenary) you might adviſe, nay tru<g ref="char:EOLhyphen"/>ly urge better Counſel when the Houſe was decli<g ref="char:EOLhyphen"/>ning; you muſt therefore now help to ſupport it.</p>
+            <p>Well, now it ſeems that the Lord (by ſome confi<g ref="char:EOLhyphen"/>ding more in War then Truth and Peace) muſt call you or your Comrade once more forth, as well to qualifie the wickedneſs of the Marriners, (a ſpirit bad enough, and too too ſoon, though late<g ref="char:EOLhyphen"/>ly rais'd) as to try once more to bring home victo<g ref="char:EOLhyphen"/>ry from an inſulting Foe, even at the gate; Deny not when you are call'd, caſt your ſelves into the armes of your heavenly Father, he ſhall direct you and his choſen ones for ever, and will even for e<g ref="char:EOLhyphen"/>ver and ever preſerve. But in thy heart Covenant with God, or at leaſt wiſh an happyer Reſtauration to our Rights and Priviledges now, then by blood at Sea, and that from thy ſoul: which if thou heartily purſue, the God of glory may Crown it with a bleſſing, and return the benefit into thy bo<g ref="char:EOLhyphen"/>ſome. Remember, that the greateſt of Power was the Lamb of Peace, ſo well as <hi>Lyon of the Tribe of Judah;</hi> but the ſtill commands all Powers.</p>
+         </div>
+         <div type="tract">
+            <pb n="15" facs="tcp:166409:9"/>
+            <head>To the Members of Parliament and State.</head>
+            <p>O The wiſdome of the World! Oh that wiſ<g ref="char:EOLhyphen"/>dome I will overturn, overturn, overturn, ſaith the Lord; not in haſt (though provo<g ref="char:EOLhyphen"/>ked) I hope: for <hi>Thou Lord art gratious, full of com<g ref="char:EOLhyphen"/>paſsion, ſlow to anger, and of great mercy, and doing good.</hi> It hath not been hid from your eyes, that the Lord hath overturned your Predeceſſors twice, which without peradventure acted (or at leaſt ſought) better things: Then what ſhall the Lord in the great day of his controverſie do unto you? I would know which of you hath moſt in Bank now in the enemies power, or if you could find no other ways to ſpend the ſinews of the people and Army, then in a <hi>Maritime</hi> War, delayed when victory was pro<g ref="char:EOLhyphen"/>miſed &amp; anſwer'd; neither friend or enemy, but the devouring Sea, like to be the better for it. Hath God even delivered into your ſervants hands the Enemies of the three Nations, to be thus requited, in ſtead of ſeeking the face of his Divine Majeſty with unfeigned prayers and praiſes, doing good to the whole work of his hands, and as a Deliverer of our Rights and Priviledges from the incurſion and ſubjugation of Tyrants? Are not we, even we, that God hath made <hi>Moſes</hi>-like to ſtand in the gap in the terrible day, when the deluge of your Ene<g ref="char:EOLhyphen"/>mies approach'd your neereſt confines, very ſad now? Well, what reward? A new War, and bad
+<pb n="16" facs="tcp:166409:10"/>involvement in freſh Seas of ſorrow. Nay, before the matter (as is ſuppoſed) was fully ſtated, or ma<g ref="char:EOLhyphen"/>terially ripe for action, and other creatures that ne<g ref="char:EOLhyphen"/>ver appeared in the late-got victories, or in the leaſt contributed thereto, muſt firſt be preferred and promoted in the fruits of our bloody and dir<g ref="char:EOLhyphen"/>ty travels, for your ſafeties and our own, even as Mercenaries or worſt of men ſleighted. I muſt acknowledge, 'tis juſt with God the ſearcher of hears, and tryer of the reins, to caſt ſometimes the Rod into the fire, which proves dry, ſtiff, or bar<g ref="char:EOLhyphen"/>ren; yet will he keep mercy for thoſe of them, that will yet look from vain humane Powers, and to his Face alone for comfort and deliverance. How ſeaſonable would one years eaſe be, to a declining people, even almoſt exhauſted already, whoſe lan<g ref="char:EOLhyphen"/>guiſhing Priviledges have commanded my watch<g ref="char:EOLhyphen"/>ful eye and weaker Pen to this ſacrifice of ſome re<g ref="char:EOLhyphen"/>tired houres! Enquire not after my name in the fleſh, to perſecute it, leſt your own hearts meet with enough within to judge your ſelves; not that I ſear any other then my God, my Deliverer, and Preſerver; and that Angel he hath appointed to attend me, and miniſter unto me. Oh friends, I'll call you good Maſters, when you by your Chri<g ref="char:EOLhyphen"/>ſtian, ſweet, and good diſpoſures, ſhall find true Re<g ref="char:EOLhyphen"/>ligion and purſue it, in relieving the Widow, the Fatherleſs, and Orphans; and eaſing the heavy-laden of their burthens. You may ſay, The time is now paſt. But, O Sirs, let every one of you en<g ref="char:EOLhyphen"/>ter into the privateſt Cloſets of your hearts, and with tears bewail thoſe glorious opportunities
+<pb n="17" facs="tcp:166409:10"/>God hath put into your hands, though rejected and neglected; and then draw a new Covenant with the great God of Power, who depoſeth and ſetteth up Princes at pleaſure, now moſt cordially and really to ſeek chiefly his glory, and the ad<g ref="char:EOLhyphen"/>vantage of the Common-wealth, and the mutual preſervation, defence, and comfort of all his peo<g ref="char:EOLhyphen"/>ple in general; eſpecially thoſe under your charge, if God may deliver you and them; and do you your ſelves firſt ſign it with your hearts and hands, then diſtribute it among the people: alſo, unto a common Treaſury to be appointed, do you your ſelves advance what liberal ſummes you can poſ<g ref="char:EOLhyphen"/>ſibly ſpare, to perfect or accommodate this great work, that others may follow your example; and if you can lend any of your perſons to the work, do.</p>
+            <p>And here if I may produce two or three conſi<g ref="char:EOLhyphen"/>derations from a piece intituled Sir <hi>Walter Raw<g ref="char:EOLhyphen"/>leigh</hi>'s <hi>Maximes</hi> of Sate, I ſhall.</p>
+            <p>
+               <q rend="margQuotes">"Sometimes the <hi>Romanes,</hi> for Publick good, without reſpect of wealth, fetch'd ſome of their Senators from the Plough, and ſome from the School.</q>
+            </p>
+            <p>Such would now be viſible in the rooms of <hi>Achans, Achitophels,</hi> and miſcarrying <hi>Iſcariots,</hi> if any ſuch there be.</p>
+            <p>In another place thus, as touching a Political Prince.</p>
+            <q rend="margQuotes">
+               <p>"<hi>David</hi> being a moſt worthy and excellent Prince, for Wiſdom, Valour, Religion, and Juſtice, and ſo highly deſerving of the Com<g ref="char:EOLhyphen"/>mon-wealth,
+<pb n="18" facs="tcp:166409:11"/>yet grown into age, grow withal into contempt, and had many both of his No<g ref="char:EOLhyphen"/>bles and common people that fell from him, firſt with <hi>Abſalom,</hi> then with <hi>Adonijah,</hi> who affected the Kingdome, and rebelled againſt him; for re<g ref="char:EOLhyphen"/>medy whereof, he ſtirred up himſelf to Publick actions which might ſhew his vigour and ſuffici<g ref="char:EOLhyphen"/>ency to manage the affairs of his Kingdom.</p>
+               <p>"After the victory of <hi>Abſalom,</hi> he forced him<g ref="char:EOLhyphen"/>ſelf to forbear mourning, and ſhewed himſelf to his diſcontented Army, when all were like to fall from him. He alſo ſent kind meſſengers to <hi>Je. ruſalem</hi> and other principal places, and men of <hi>Judea,</hi> putting them in minde of their allyance with him, with theſe words, <hi>That they were of his own fleſh and blood,</hi> with proteſtation to provide for them with the like kindneſs and affection of theirs to wards him. He aſſembled a Parliament of his whole Realm, <hi>&amp;c.</hi> He ſhewed bounty and magnificence, in congeſting matter for building of the Temple, as <hi>Gold, Silver,</hi> &amp;c. He reviv'd Church-government, and ſet it in right order. He ordained <hi>Salomon</hi> his Succeſſor.</p>
+               <p>"By theſe and ſuch like other means, he retained his Majeſty and Authority in his old age, and then dyed in peace.</p>
+            </q>
+            <p>I leave the application to the moſt Pious and Po<g ref="char:EOLhyphen"/>litick of you, with this caveat, that when you uſe Policy, you never tender it more then as a hand<g ref="char:EOLhyphen"/>maid to true Piety; which then will make it more warrantable, and abide the teſt of fire it ſelf.</p>
+            <p>
+               <q rend="margQuotes">"O hear what <hi>Moſes</hi> ſpeaks: <hi>Thus ſaith the Lord,
+<pb n="19" facs="tcp:166409:11"/>I have ſurely ſeen the affliction of my people, and I have heard their cry, by reaſon of their Task-Maſters, for I know their ſorrowes.</hi> Thus you may ſee God will take ſpecial care of his low deſpiſed ones:</q> and obſerve what <hi>Paul</hi> ſayes, (O I could wiſh you noble Senators to be ſo as the wiſe <hi>Bereans,</hi> who ſtudied the Scriptures for glorious ends, that I might joyn with him to you thus) <hi>Though I am ab<g ref="char:EOLhyphen"/>ſent in the Fleſh, yet am I preſent with you in the Spirit.</hi> But thus as to higheſt glory, and loweſt good; Come, come, learn to be perfect Chriſtians, ſo well as Morally honeſt; deny your ſelves, take up the Croſs (now near you) and follow him.</p>
+            <p>Clouds gathered, menace Rain, I wiſh not ru<g ref="char:EOLhyphen"/>ine, or that it ſpoyl not you, becauſe you manage it no better; either take your hearts and hands to you, to maintain Publick intereſt, or draw aſide, take Phyſick a while, and admit others that you dare truſt as Deputies with that, or part of that high truſt in you; commit your ſelves to the preſerver of men, and let nothing be wanting in, by, through, or from you, that may manifeſt your ſelves to be <hi>Patres Patriae,</hi> advancers of the Kingdom of Chriſt, and the proſperities of his Saints: Which that you may do, ſhall be the prayer of the Author, to the chief Author of mercy.</p>
+         </div>
+         <div type="tract">
+            <pb n="20" facs="tcp:166409:12"/>
+            <head>To my honeſt Fellow-Commoners.</head>
+            <p>TRuly Sirs, I have nothing worthy to be cal<g ref="char:EOLhyphen"/>led a preſent for you in this day of your great Tryal; but if you will accept it, I ren<g ref="char:EOLhyphen"/>der you the ſorrowful countenance of a dejected heart, wiſhing it might ſigh and mourn it ſelf a<g ref="char:EOLhyphen"/>way for your deliverance, which ſure will ap<g ref="char:EOLhyphen"/>proach: every night hath its morning, and that its perfect day. When God hath afforded you mercies greater then ever, putting your Truſtees in fair wayes of eſtabliſhing your long-deſired Rights; have you been truly thankful, or have not your freſh ſinnes ſtill called and renewed more judge<g ref="char:EOLhyphen"/>ments? Seriouſly I now fear your caſe, yet the Lord will (if you truſt him) not ſuffer poor ſouls for ever to groan under the Altar of mercy, but give them a glorious iſſue of their deſires. Patient<g ref="char:EOLhyphen"/>ly wait, ſtand ſtill, and ſee the ſalvation of the Lord. Man can do no more then God permits, nor can <hi>Pharaoh</hi> with all his Chariots paſs the Red Sea; but ye may eſcape, if ye ſteer affairs by Di<g ref="char:EOLhyphen"/>vine direction. Well, this is further to try your ſpirits, if not humble, and lay them in the duſt.</p>
+            <p>If ye are perfect Chriſtians, ye cannot refuſe your Maſters Croſs. But ſay you, We expected our Freedomes and external Priviledges to be ſet<g ref="char:EOLhyphen"/>led long ſince. I bewail your want, I deſire to mourn with you. When God had even planted you in peace, and had pruned you, what fruit
+<pb n="21" facs="tcp:166409:12"/>brought you forth? were you not ſo bad as my ſelf, a barren Fig-tree, which juſtly deſerv'd this curſe upon all our hopes? or indeed brought ye not forth wilde grapes, which occaſioned God to pluck down your walles, and leave you a prey to the Bears and Wolves of the Forreſt? but thoſe of you that are in Chriſt, ſhall be in ſafety; if Warre and peſtilence cover the Land, he will watch ten<g ref="char:EOLhyphen"/>derly over his, and preſerve them from all dan<g ref="char:EOLhyphen"/>gers; <hi>Gog</hi> and <hi>Magog</hi> muſt fall, Truth onely ſtand. Oh Friends, be ye juſt and upright, then ſhall your path be as the ſhining light, which ſhineth more and more unto the perfect day; and be ye not as the wicked which walk in darkneſs, who know not whereat they ſtumble. I ſhall deſire you to offer up your hearts in ſighs and groanes to the God of mercy, for an happy reſtitution of your Chriſtian Priviledges now ſinking, by reaſon of thoſe cor<g ref="char:EOLhyphen"/>ruptions. Obſerve Divine Providence, let nothing be wanting towards ſupport of the Church yet Militant, for your ſakes, I mean thoſe that ſhall go forth for you; for thoſe muſt bring in Materials to build the true Temple, as <hi>David</hi> did.</p>
+         </div>
+         <div type="tract">
+            <head>To all preſent Powers.</head>
+            <p>WHat God, or man by him ſhall dictate, obſerve and follow; leſt God finde you ſo diſobedient as your Predeceſ<g ref="char:EOLhyphen"/>ſors, and accordingly afflict, though he may love you; <hi>For God was once in the ſtill voyce:</hi> I wiſh the
+<pb n="22" facs="tcp:166409:13"/>ſame may modelize you (as it will) and manifeſt more to you then the poor Author.</p>
+            <p>I deſire to be ſpent for you and my poor Coun<g ref="char:EOLhyphen"/>try, I mean ſpiritually; that ye may alſo taſte and receive more excellent things, excellency waits at your gates.</p>
+         </div>
+         <div type="tract">
+            <head>To the Mariners and Sea-Comman<g ref="char:EOLhyphen"/>ders.</head>
+            <p>HAth God brought you to this for puniſh<g ref="char:EOLhyphen"/>ment or mercy, judge ye? Oh what Blaſ<g ref="char:EOLhyphen"/>pheming and Retrogade ſpirits have ye been! Oh Friends, judge your ſelves in time, leſt ye be now adjudged to torments. Shall I deal plainly with you? Ye are the Veſſels of Wrath, which the Omnipotent hath appointed to ſcourge ſo bad as your ſelves, though more numerous; ſome of you muſt fall for the reſt, by a Rod of your own gleaning, yet it ſhall preſerve you, though ye cannot but by faith eſpie the hand that moves it. Oh in time (with me) bewail the Face of affairs and Divine judgements, which your trea<g ref="char:EOLhyphen"/>cherous ſinnes to God and man hath call'd upon our own heads.</p>
+            <p>Pray why was not victory purſued, when your Enemy fled before you? Was it to betray your Country, or enlarge their fears, ſorrowes, and exhauſt their declining Sweat and Treaſure? Well, for this I tell you, though the Lord of
+<pb n="23" facs="tcp:166409:13"/>Hoſts (in whoſe Almighty preſence we are al<g ref="char:EOLhyphen"/>waies) will (notwithſtanding, though for your ſins puniſhing you) let you by another hand more then yours, ſee deliverance.</p>
+            <p>Then truſt God and his pure Spirit in his Saints; leave Oaths and wickedneſs, that ye may be con<g ref="char:EOLhyphen"/>verted and live, and indeed be Inſtruments yet of as much glory and Conqueſts, as the God of For<g ref="char:EOLhyphen"/>ces hath made ſome of his Children by Land, that you or yours may ſee Peace eſtabliſhed in Righte<g ref="char:EOLhyphen"/>ouſneſs, and ſo Poſterity have occaſion to bleſs God for you, though wicked Inſtruments of his glory; for now the ungodly will puniſh the wic<g ref="char:EOLhyphen"/>ked.</p>
+            <p>O let the Spirit of Chriſt reign in and over you, that it may not onely deliver you and us in the e<g ref="char:EOLhyphen"/>vil day, but confirm you to the enjoyment of the great glory ſhall be diſcovered and made manifeſt in (though out of) the fleſh; then be ye conforma<g ref="char:EOLhyphen"/>ble to the dictates of the ſame, walk humbly in his ſight, that ye may be bold as Lions in your Ene<g ref="char:EOLhyphen"/>mies, and they be cruſh'd before that greater invi<g ref="char:EOLhyphen"/>ſible Power, in or with you; which I moſt heartily wiſh.</p>
+         </div>
+         <div type="tract">
+            <head>To all people of and in God.</head>
+            <p>I Suppoſe our Bears muſt not onely deſtroy thoſe without, but rob them of their Whelps, if they make haſte; and by or before the beginning of <hi>March</hi> next, reſolutely and unanimouſly at<g ref="char:EOLhyphen"/>tempt
+<pb n="24" facs="tcp:166409:14"/>and perſevere in it: then truſt God with the iſſue; two or three bouts will do the work, if you and they deſire the Lord of Hoſts to do it for us: to further which, I wiſh a new Covenant written in every ones heart and ſpirit, to ſeek Truth and Peace, and purſue it, immediately after the delive<g ref="char:EOLhyphen"/>rance, and in the height of our Conqueſt; that mer<g ref="char:EOLhyphen"/>cy may be minded, and ſo burning Coals heaped on the heads of the Enemies; and I wiſh the rigid Presbyters and Anabaptiſts ruine not themſelves. Alſo, a Publick Treaſurie to be erected, for every one worth above 200 l. <hi>de claro,</hi> to advance a twen<g ref="char:EOLhyphen"/>tieth part of ſubſtance towards the propagation of this great work, to be repay'd immediately after victory, (if our State can bear it) with intereſt at 8 <hi>per cent.</hi> with the voluntary contribution of others in that nature, towards ſupport of affairs, and of the Widow, Fatherleſs, and Orphans that muſt happen. Alſo the Soldier and Mariner (when du<g ref="char:EOLhyphen"/>ly paid) will be humbler and bettter ſervants. As to ſuppreſſion of <hi>Tories, Moſs-Troopers,</hi> and <hi>Vaga<g ref="char:EOLhyphen"/>bounds</hi> in Armes, which muſt increaſe in <hi>Ireland</hi> and <hi>Scotland,</hi> That in the firſt place a <hi>Marſhall-General,</hi> and ſtrict Advocate with Force, may continually (convenient reſt in a place allowed) be allotted to Quarter on their Landlords or <hi>Grandees;</hi> and ſetting forth a Proclamation for every one of thoſe Wolves to come in by a due ſeaſon, immediately elſe hang up every one at the next Tree they ſhall meet in Armes; and all ſuſpected diſaffected diſ<g ref="char:EOLhyphen"/>armed.</p>
+            <pb n="25" facs="tcp:166409:14"/>
+            <p>As for the Navy, honeſt Commanders of the Army, joyn'd with the Naval, to qualifie the Spirit, will cruſh the Enemy.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Had not</hi> Sol <hi>afflicted</hi> Merc'ry <hi>in Cancer,</hi>
+                  </l>
+                  <l>Crabs <hi>to</hi> Rams <hi>had never found an anſwer.</hi>
+                  </l>
+               </lg>
+            </q>
+            <closer>Soli Deo Gloria.</closer>
+            <trailer>
+               <hi>FINIS</hi> Coronat Opus.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="epigraph">
+            <q>
+               <lg>
+                  <l>Let Bears decay, Wolves fall, and Lions ſtand,</l>
+                  <l>Firſt gone, others waſting, loſt, and laſt command;</l>
+                  <l>When heaven once ſhall unfold this Myſterie,</l>
+                  <l>Heavens in earth receive a Jubilee.</l>
+                  <l>Wake not my Love, when now wiſhes ſlumber;</l>
+                  <l>Cruſh your Enemy though exceeds number.</l>
+                  <l>The Author hath been too buſie for you,</l>
+                  <l>Yet his pointed work he muſt doe:</l>
+                  <l>Let <hi>Babylon</hi> fall, that truth may flouriſh;</l>
+                  <l>Then Peace, Joy, all bleſſings ſhall you nouriſh.</l>
+               </lg>
+            </q>
+         </div>
+      </back>
+   </text>
+</TEI>
